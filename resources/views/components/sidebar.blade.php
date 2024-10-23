@@ -42,7 +42,7 @@
         <!-- Bahasa -->
         <li class="menu-item">
             <a href="/bahasa" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-mail"></i>
+                <i class="menu-icon tf-icons ti ti-flag"></i>
                 <div data-i18n="Bahasa">Bahasa</div>
             </a>
         </li>
@@ -53,14 +53,14 @@
         <!-- Pendidikan -->
         <li class="menu-item">
             <a href="/pendidikan" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-id"></i>
+                <i class="menu-icon tf-icons ti ti-chalkboard"></i>
                 <div data-i18n="Pendidikan">Pendidikan</div>
             </a>
         </li>
         <!-- Pengalaman -->
         <li class="menu-item">
             <a href="/pengalaman" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-color-swatch"></i>
+                <i class="menu-icon tf-icons ti ti-check"></i>
                 <div data-i18n="Pengalaman">Pengalaman</div>
             </a>
         </li>
@@ -71,14 +71,14 @@
         <!-- Kategori -->
         <li class="menu-item">
             <a href="/kategori" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-toggle-left"></i>
+                <i class="menu-icon tf-icons ti ti-folder"></i>
                 <div data-i18n="Kategori">Kategori</div>
             </a>
         </li>
         <!-- Konten -->
         <li class="menu-item">
             <a href="/konten" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-layout-navbar"></i>
+                <i class="menu-icon tf-icons ti ti-pencil"></i>
                 <div data-i18n="Konten">Konten</div>
             </a>
         </li>
@@ -88,7 +88,7 @@
         </li>
         <li class="menu-item">
             <a href="/kontak" class="menu-link">
-                <i class="menu-icon tf-icons ti ti-chart-pie"></i>
+                <i class="menu-icon tf-icons ti ti-address-book"></i>
                 <div data-i18n="Kontak">Kontak</div>
             </a>
         </li>

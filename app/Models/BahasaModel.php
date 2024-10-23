@@ -8,4 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class BahasaModel extends Model
 {
     use HasFactory;
+
+    protected $table = 'bahasa';
+    protected $guarded = [];
 }

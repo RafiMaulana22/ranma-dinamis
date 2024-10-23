@@ -5,7 +5,7 @@
     <div class="card bg-transparent shadow-none my-6 border-0">
         <div class="card-body row p-0 pb-6 g-6">
             <div class="col-12 col-lg-8 card-separator">
-                <h5 class="mb-2">Welcome back,<span class="h4"> Felecia 👋🏻</span></h5>
+                <h5 class="mb-2">Welcome back,<span class="h4"> {{ Auth::user()->name }} 👋🏻</span></h5>
                 <div class="col-12 col-lg-5">
                     <p>Your progress this week is Awesome. let's keep it up and get a lot of points
                         reward !</p>

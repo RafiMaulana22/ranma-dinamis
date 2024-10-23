@@ -25,6 +25,10 @@
     href="{{ asset('') }}assets/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css">
 <link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/datatables-buttons-bs5/buttons.bootstrap5.css">
 <link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/apex-charts/apex-charts.css" />
+<link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/bootstrap-select/bootstrap-select.css" />
+<link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/select2/select2.css" />
+<link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/flatpickr/flatpickr.css" />
+<link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/tagify/tagify.css" />
 <!-- Vendor -->
 <link rel="stylesheet" href="{{ asset('') }}assets/vendor/libs/%40form-validation/form-validation.css" />
 <!-- Page CSS -->
@@ -33,3 +37,5 @@
 <!-- Helpers -->
 <script src="{{ asset('') }}assets/vendor/js/helpers.js"></script>
 <script src="{{ asset('') }}assets/js/config.js"></script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">

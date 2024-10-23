@@ -53,6 +53,7 @@
     </div>
     <!-- / Layout wrapper -->
     @include('components.admin.script')
+    @include('components.admin.script-tambahan')
 </body>
 
 </html>
